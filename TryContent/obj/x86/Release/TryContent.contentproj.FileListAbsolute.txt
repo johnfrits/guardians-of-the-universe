@@ -1,0 +1,2 @@
+C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\TryContent\obj\x86\Release\TryContent.contentprojResolveAssemblyReference.cache
+E:\IT Stuffs\ALL ABOUT C# (IMPORTANT)\FINAL PROJECT OOP\Try\TryContent\obj\x86\Release\TryContent.contentprojResolveAssemblyReference.cache
