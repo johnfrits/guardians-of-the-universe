@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Audio\start.wav</Source>
+      <Name>Audio\start</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\documents\visual studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Audio\start.xnb</Output>
+      <Time>2014-08-24T11:35:01.146177+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\track.wav</Source>
+      <Name>Audio\track</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\documents\visual studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Audio\track.xnb</Output>
+      <Time>2014-08-24T11:35:01.1501821+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\skullcollision.wav</Source>
+      <Name>Audio\skullcollision</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\documents\visual studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Audio\skullcollision.xnb</Output>
+      <Time>2014-08-24T12:31:26.4150565+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\score.spritefont</Source>
+      <Name>Font\score</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\documents\visual studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Font\score.xnb</Output>
+      <Time>2014-09-25T20:14:24.638796+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\boltcollision.wav</Source>
+      <Name>Audio\boltcollision</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\documents\visual studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Audio\boltcollision.xnb</Output>
+      <Time>2014-08-25T14:55:05.7295974+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\pluscollision.wav</Source>
+      <Name>Audio\pluscollision</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\documents\visual studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Audio\pluscollision.xnb</Output>
+      <Time>2014-08-25T14:55:05.7609927+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\threebladecollision.wav</Source>
+      <Name>Audio\threebladecollision</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\documents\visual studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Audio\threebladecollision.xnb</Output>
+      <Time>2014-08-25T14:55:05.7679983+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\fourbladecollision.wav</Source>
+      <Name>Audio\fourbladecollision</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\documents\visual studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Audio\fourbladecollision.xnb</Output>
+      <Time>2014-08-25T15:20:16.7941218+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\threerings.png</Source>
+      <Name>Images\threerings</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Images\threerings.xnb</Output>
+      <Time>2014-08-15T22:47:02.0633983+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\skullball.png</Source>
+      <Name>Images\skullball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Images\skullball.xnb</Output>
+      <Time>2014-08-16T18:11:39.9282352+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\bolt.png</Source>
+      <Name>Images\bolt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Images\bolt.xnb</Output>
+      <Time>2014-08-25T22:03:53.7125425+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\fourblades.png</Source>
+      <Name>Images\fourblades</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Images\fourblades.xnb</Output>
+      <Time>2014-08-25T22:14:07.2473068+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\plus.png</Source>
+      <Name>Images\plus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Images\plus.xnb</Output>
+      <Time>2014-08-25T22:14:07.2513095+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\threeblade.png</Source>
+      <Name>Images\threeblade</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Images\threeblade.xnb</Output>
+      <Time>2014-08-25T22:14:07.3230678+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\explosionsprite.png</Source>
+      <Name>Images\explosionsprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Images\explosionsprite.xnb</Output>
+      <Time>2014-09-19T15:28:53.8925011+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\gameMenuTrack.wav</Source>
+      <Name>Audio\gameMenuTrack</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Audio\gameMenuTrack.xnb</Output>
+      <Time>2014-09-18T13:59:39.503598+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\gameplayTrack.wav</Source>
+      <Name>Audio\gameplayTrack</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Audio\gameplayTrack.xnb</Output>
+      <Time>2014-09-19T01:31:36.0007878+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\explosion.wav</Source>
+      <Name>Audio\explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Audio\explosion.xnb</Output>
+      <Time>2014-09-20T15:31:42.804655+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\gunshot.wav</Source>
+      <Name>Audio\gunshot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Audio\gunshot.xnb</Output>
+      <Time>2014-09-21T20:46:47.2982728+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\backg.jpg</Source>
+      <Name>Images\backg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Images\backg.xnb</Output>
+      <Time>2014-09-26T13:21:10.8737208+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\enemyparticle.png</Source>
+      <Name>Images\enemyparticle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Images\enemyparticle.xnb</Output>
+      <Time>2014-09-26T14:59:14.7887788+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\enemy40Life.png</Source>
+      <Name>Images\enemy40Life</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Images\enemy40Life.xnb</Output>
+      <Time>2014-09-24T14:01:17.14778+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\enemy1.png</Source>
+      <Name>Images\enemy1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Images\enemy1.xnb</Output>
+      <Time>2014-09-25T13:37:58.5012177+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\playerShipEdited.png</Source>
+      <Name>Images\playerShipEdited</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Images\playerShipEdited.xnb</Output>
+      <Time>2014-09-25T22:00:30.5605459+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\playerBullet.png</Source>
+      <Name>Images\playerBullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Images\playerBullet.xnb</Output>
+      <Time>2014-09-26T00:56:07.9391695+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\armorfinal.png</Source>
+      <Name>Images\armorfinal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Images\armorfinal.xnb</Output>
+      <Time>2014-09-26T12:55:03.0868749+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\start.png</Source>
+      <Name>Images\start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Images\start.xnb</Output>
+      <Time>2014-09-26T21:48:37.452027+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\about.png</Source>
+      <Name>Images\about</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Images\about.xnb</Output>
+      <Time>2014-09-26T22:34:04.4874024+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\exit.png</Source>
+      <Name>Images\exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Images\exit.xnb</Output>
+      <Time>2014-09-26T22:34:04.4924054+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\bossSprite.png</Source>
+      <Name>Images\bossSprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Images\bossSprite.xnb</Output>
+      <Time>2014-09-27T00:50:59.742027+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\gameFinalLogo.png</Source>
+      <Name>Images\gameFinalLogo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Images\gameFinalLogo.xnb</Output>
+      <Time>2014-09-27T15:07:20.0385526+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\enemy5.png</Source>
+      <Name>Images\enemy5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Images\enemy5.xnb</Output>
+      <Time>2014-09-27T22:19:51.4049753+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\enemy6.png</Source>
+      <Name>Images\enemy6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Images\enemy6.xnb</Output>
+      <Time>2014-09-27T22:19:43.4993859+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\instructions.png</Source>
+      <Name>Images\instructions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Images\instructions.xnb</Output>
+      <Time>2014-09-28T00:32:47.0818706+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\waves.spritefont</Source>
+      <Name>Font\waves</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Font\waves.xnb</Output>
+      <Time>2014-09-28T00:08:22.7951319+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\border.png</Source>
+      <Name>Images\border</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Images\border.xnb</Output>
+      <Time>2014-09-28T13:17:30.7120381+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\button-3.wav</Source>
+      <Name>Audio\button-3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\Audio\button-3.xnb</Output>
+      <Time>2014-09-28T13:33:47.0973795+08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{33C1B3B9-4EE3-48BC-A451-F133BB2A6D7B}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\TryContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Raul Rejaba\Documents\Visual Studio 2013\Projects\Try\Try\Try\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-07-31T23:23:02.6874916+08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
